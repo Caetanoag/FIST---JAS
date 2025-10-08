@@ -4,7 +4,7 @@
     --green-700: #15803D;
     --green-200: #D1FAE5;
     --bg: #ffffff;
-    --muted: black;
+    --muted:#6B7280;
     --radius: 12px;
     --container: 1160px;
   }
@@ -20,7 +20,7 @@
   .logo-mark{width:44px; height:44px; background:var(--green-600); color:white; display:flex; align-items:center; justify-content:center; font-weight:700; border-radius:10px}
   .logo-text{font-weight:700; font-size:18px}
   .nav{display:flex; gap:18px; align-items:center}
-  .nav a{margin-top: 50%; color:var(--muted); text-decoration:none; font-weight:600}
+  .nav a{margin-top: 50%; color:white; text-decoration:none; font-weight:600}
   .btn{display:inline-flex; align-items:center; gap:10px; padding: 10px 14px; border-radius:10px; text-decoration:none; font-weight:700}
   .btn-primary{background:var(--green-600); color:white; border:2px solid black}
   .btn-primary:hover{background:var(--green-700); border-color:black}
@@ -86,6 +86,7 @@
   .small{padding:6px 8px; font-size:13px}
 
   
+
 
 
 

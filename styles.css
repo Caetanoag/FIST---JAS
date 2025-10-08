@@ -24,7 +24,7 @@
   .btn{display:inline-flex; align-items:center; gap:10px; padding: 10px 14px; border-radius:10px; text-decoration:none; font-weight:700}
   .btn-primary{background:var(--green-600); color:black; border:2px solid black}
   .btn-primary:hover{background:var(--green-700); border-color:black}
-  .btn-outline{background:transparent; color:white; border:1px solid rgba(0,0,0,0.06); padding:8px 12px}
+  .btn-outline{background:transparent; color:black; border:1px solid rgba(0,0,0,0.06); padding:8px 12px}
   .btn-ghost{background:transparent; color:var(--green-600); border:1px solid transparent}
   
   /* Hero */
@@ -86,6 +86,7 @@
   .small{padding:6px 8px; font-size:13px}
 
   
+
 
 
 

@@ -4,7 +4,7 @@
     --green-700: #15803D;
     --green-200: #D1FAE5;
     --bg: #ffffff;
-    --muted: #6B7280;
+    --muted: black;
     --radius: 12px;
     --container: 1160px;
   }
@@ -86,5 +86,6 @@
   .small{padding:6px 8px; font-size:13px}
 
   
+
 
 
